@@ -1,0 +1,9 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+basic_binary_classification.egg-info/PKG-INFO
+basic_binary_classification.egg-info/SOURCES.txt
+basic_binary_classification.egg-info/dependency_links.txt
+basic_binary_classification.egg-info/requires.txt
+basic_binary_classification.egg-info/top_level.txt

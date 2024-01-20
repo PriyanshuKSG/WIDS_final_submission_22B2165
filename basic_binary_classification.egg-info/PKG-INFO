@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: basic_binary_classification
+Version: 0.0.1
+Summary: A very basic NN
+Home-page: 
+Author: Priyanshu K.S. Gangavati 
+Author-email: priyanshupreetamsg@gmail.com
+License: MIT
+Keywords: neural_network
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+
+This is a simple artificial Neural Network which is used for basic binary classification.
+Batch Gradient Descent and Binary Cross Entropy function is used for Optimization and 
+cost function respectively.
+
+Change log
+
+==========
+
+0.0.1 (18/01/2024)
+
+----------
+
+-First Release
